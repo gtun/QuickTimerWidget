@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quick Timer</string>
+    <string name="widget_description">Tap +30s / +1m / +5m / +10m to start a countdown, or add to the one already running.</string>
+
+    <string name="widget_idle_label">Idle</string>
+    <string name="widget_done_label">Done!</string>
+    <string name="widget_cancel_symbol">✕</string>
+    <string name="widget_btn_30s">+30s</string>
+    <string name="widget_btn_1m">+1m</string>
+    <string name="widget_btn_5m">+5m</string>
+    <string name="widget_btn_10m">+10m</string>
+
+    <string name="channel_running_name">Timer running</string>
+    <string name="channel_running_desc">Shows the time remaining while a countdown is active</string>
+    <string name="channel_done_name">Timer finished</string>
+    <string name="channel_done_desc">Alerts you when a countdown reaches zero</string>
+
+    <string name="notif_running_title">Timer running</string>
+    <string name="notif_running_suffix">remaining</string>
+    <string name="notif_action_cancel">Cancel</string>
+    <string name="notif_action_dismiss">Dismiss</string>
+    <string name="notif_done_title">Time\'s up!</string>
+    <string name="notif_done_text">Your timer has finished. Tap Dismiss to stop the alarm.</string>
+
+    <string name="main_instructions">Long-press your home screen, choose Widgets, then find and place Quick Timer.\n\nTap +30s, +1m, +5m, or +10m on the widget to start a countdown - tap again while it\'s running to add more time.</string>
+</resources>

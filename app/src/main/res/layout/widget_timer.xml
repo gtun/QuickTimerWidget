@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_background"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingStart="10dp"
+    android:paddingEnd="10dp"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp">
+
+    <TextView
+        android:id="@+id/timeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="6dp"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:maxLines="1"
+        android:minWidth="40dp"
+        android:textColor="@color/widget_text"
+        android:textSize="14sp"
+        tools:text="4:59" />
+
+    <Button
+        android:id="@+id/btn30"
+        style="@style/WidgetButton"
+        android:text="@string/widget_btn_30s" />
+
+    <Button
+        android:id="@+id/btn60"
+        style="@style/WidgetButton"
+        android:text="@string/widget_btn_1m" />
+
+    <Button
+        android:id="@+id/btn300"
+        style="@style/WidgetButton"
+        android:text="@string/widget_btn_5m" />
+
+    <Button
+        android:id="@+id/btn600"
+        style="@style/WidgetButton"
+        android:text="@string/widget_btn_10m" />
+
+    <TextView
+        android:id="@+id/btnCancel"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_marginStart="6dp"
+        android:background="@drawable/widget_cancel_background"
+        android:gravity="center"
+        android:text="@string/widget_cancel_symbol"
+        android:textColor="@color/widget_cancel_text"
+        android:textSize="11sp"
+        android:visibility="gone" />
+
+</LinearLayout>

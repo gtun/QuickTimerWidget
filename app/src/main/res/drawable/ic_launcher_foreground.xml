@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clock face, sized to sit within the adaptive-icon safe zone (66dp centered). -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,21 C36.9,21 23,34.9 23,52 C23,69.1 36.9,83 54,83 C71.1,83 85,69.1 85,52 C85,34.9 71.1,21 54,21 Z M54,77 C40.2,77 29,65.8 29,52 C29,38.2 40.2,27 54,27 C67.8,27 79,38.2 79,52 C79,65.8 67.8,77 54,77 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,36 L51,36 L51,54 L67,63.5 L69.5,59.3 L56,51.3 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,15 L61,15 L61,21 L47,21 Z" />
+</vector>

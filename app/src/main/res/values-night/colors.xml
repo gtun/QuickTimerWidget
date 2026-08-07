@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_bg">#26283A</color>
+    <color name="widget_text">#F2F3FA</color>
+    <color name="widget_button_bg">#383B54</color>
+    <color name="widget_button_bg_pressed">#4A4E6E</color>
+    <color name="widget_button_text">#C9CEFF</color>
+    <color name="widget_cancel_bg">#3D4060</color>
+    <color name="widget_cancel_text">#C9CEFF</color>
+</resources>

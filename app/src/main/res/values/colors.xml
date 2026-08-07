@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#5B6CF0</color>
+    <color name="brand_dark">#3F4FCB</color>
+
+    <!-- Light theme widget colors -->
+    <color name="widget_bg">#F2F3FA</color>
+    <color name="widget_text">#1B1D2A</color>
+    <color name="widget_button_bg">#FFFFFF</color>
+    <color name="widget_button_bg_pressed">#E1E4F5</color>
+    <color name="widget_button_text">#3F4FCB</color>
+    <color name="widget_cancel_bg">#E1E4F5</color>
+    <color name="widget_cancel_text">#3F4FCB</color>
+</resources>
