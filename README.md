@@ -1,3 +1,5 @@
+Disclaimer: Created in Claude Code
+
 # Quick Timer
 
 A home-screen widget with four buttons — **+30s**, **+1m**, **+5m**, **+10m**.
