@@ -54,3 +54,7 @@ the home screen.
 - Tick precision is ~1s and, like any non-alarm background timer, can drift
   by a few seconds if the OS deep-sleeps the device for a long stretch —
   fine for short breaks/tasks, not lab-grade precision.
+
+## License
+
+Public domain, under [The Unlicense](LICENSE). Use, copy, modify or redistribute it however you like. No credit is needed.
